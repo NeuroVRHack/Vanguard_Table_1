@@ -5,6 +5,7 @@
 - [Team name and Members](#team-name-and-members)
 - [Technologies used and References](#technologies-used--references)
 - [Setup](#setup)
+- [Requirements](#requirements)
 - [Instructions](#instructions)
 - [License](#license)
 
