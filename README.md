@@ -52,6 +52,8 @@ If you have any questions, feel free to open an issue or reach out to the projec
 ## Technologies Used & References
 - Technologies/Features used: Meta Oculus Quest 3 VR, Unity
 - References/Resources (frameworks, libraries, assets): 
+  - Various free unity assets (already tracked in the project)
+  - 
 
 # Setup
 ## Requirements 
