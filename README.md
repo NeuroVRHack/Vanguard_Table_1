@@ -58,7 +58,6 @@ If you have any questions, feel free to open an issue or reach out to the projec
 - Oculus Quest 2
 
 ## Instructions
-How would someone set up and run your project?
-
+Download the apk/build file from the repository and run it using a VR-compatible setup.
 ## License
 This project is licensed under [MIT License](LICENSE).
